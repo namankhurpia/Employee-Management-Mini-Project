@@ -8,7 +8,7 @@ This is a DBMS project - Employee detail management system -follows DAO -POJO ar
 Features - 
 
 Allows you to 
-1 Add employee in Db.\n
+1 Add employee in Db.<br>
 2 Show all employees in Db.
 3 Update employee details in Db.
 4 Delete employee details in Db.
