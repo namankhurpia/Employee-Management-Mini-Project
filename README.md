@@ -5,6 +5,8 @@ Database Management Systems
 
 This is a DBMS project - Employee detail management system -follows DAO -POJO architecture and the code is fairly organized and optimized.
 <br>
+instructions are available here - http://suchadummyprogrammer.blogspot.com/2018/07/the-emp-management-appwith-5.html
+<br>
 Features - 
 <br>
 Allows you to <br>
